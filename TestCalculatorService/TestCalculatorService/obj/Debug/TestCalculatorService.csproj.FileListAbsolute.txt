@@ -1,0 +1,1 @@
+C:\Dev\TestCalculatorService\TestCalculatorService\bin\Debug\TestCalculatorService.exe.config

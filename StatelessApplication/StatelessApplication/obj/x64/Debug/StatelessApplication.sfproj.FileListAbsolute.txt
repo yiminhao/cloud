@@ -1,0 +1,1 @@
+C:\Dev\StatelessApplication\StatelessApplication\obj\x64\Debug\StatelessApplication.sfprojResolveAssemblyReference.cache

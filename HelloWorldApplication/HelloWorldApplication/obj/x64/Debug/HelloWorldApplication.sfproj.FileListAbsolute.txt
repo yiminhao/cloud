@@ -1,0 +1,1 @@
+C:\Dev\HelloWorldApplication\HelloWorldApplication\obj\x64\Debug\HelloWorldApplication.sfprojResolveAssemblyReference.cache

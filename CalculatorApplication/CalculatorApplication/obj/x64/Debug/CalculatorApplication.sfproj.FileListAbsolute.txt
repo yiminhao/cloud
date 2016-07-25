@@ -1,0 +1,1 @@
+C:\Dev\CalculatorApplication\CalculatorApplication\obj\x64\Debug\CalculatorApplication.sfprojResolveAssemblyReference.cache

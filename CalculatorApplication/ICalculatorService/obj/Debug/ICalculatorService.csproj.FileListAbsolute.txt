@@ -1,0 +1,16 @@
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\ICalculatorService.dll
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\ICalculatorService.pdb
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\ServiceFabricServiceModel.dll
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\System.Fabric.dll
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\System.Fabric.xml
+C:\Dev\CalculatorApplication\ICalculatorService\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\Dev\CalculatorApplication\ICalculatorService\obj\Debug\ICalculatorService.dll
+C:\Dev\CalculatorApplication\ICalculatorService\obj\Debug\ICalculatorService.pdb
